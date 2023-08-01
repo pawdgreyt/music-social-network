@@ -1,4 +1,4 @@
-# Music Social Network Front End
+# Music Social Network VueJs 3 Front End
 
 This is a Music Social Network web application created using Laravel 9, Vue 3, Vue CLI, Pinia, Laravel Sanctum, Tailwind CSS, SweetAlert 2, and Axios. The platform allows users to connect with artists, discover new music, and engage in the vibrant music community.
 
